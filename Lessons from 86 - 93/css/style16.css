@@ -1,0 +1,53 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+[name="dollar"] {
+  padding: 10px;
+  height: 2.5rem;
+  outline: none;
+  width: 250px;
+}
+
+div.result {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+img:last-of-type {
+  margin-bottom: 20px;
+}
+
+div.two {
+  margin-bottom: 20px;
+}
+
+.input {
+  width: 250px;
+  padding: 10px;
+  height: 2.5rem;
+  background-color: #cfcfcf;
+  margin-bottom: 10px;
+}
+
+form:last-of-type .input {
+  margin: 20px auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.results {
+  height: 60vh;
+  width: 100%;
+}

@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  box-sizing: border-box;
+}
+.container {
+  font-family: "Cairo", sans-serif;
+  color: red;
+  font-size: 16px;
+}
+
+.form {
+  margin: 0 auto;
+  padding: 1rem;
+  background-color: gray;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.form select {
+  color: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: bold;
+  border: none;
+  outline: none;
+  width: 33%;
+  padding: 0.5rem;
+  background-color: #ddd;
+  cursor: pointer;
+}
+.form button {
+  color: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: bold;
+  padding: 0.5rem 1.5rem;
+  background-color: #26c6da;
+  margin-top: 0.5rem;
+  border: none;
+  cursor: pointer;
+}
+option[selected] {
+  background-color: #26c6da;
+}
+input {
+  outline: none;
+  padding: 5px;
+}
