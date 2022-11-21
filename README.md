@@ -100,6 +100,10 @@ Tarek Elkanaria
 
 - [x] Regular Expression
 
+### Lessons from 147 - 158
+
+- [x] Object Oriented Programming
+
 ### Used languages & libraries
 
 - [x] Native JavaScript
