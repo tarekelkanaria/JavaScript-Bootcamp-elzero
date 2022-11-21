@@ -40,15 +40,17 @@ console.log(example.match(reg4));
 
 // Explain
 /*
-https?:\/\/  =>  ---start with hyper text transfer protocool with optional security layer 
-(followed by ? which means 0 or one) then escap speacial characters // by back slash \/\/
-(?:[-\w]+\.)?  =>  ---Non-capture group, optional by ? 0 or one in the end, contain range in square 
-brackets match the hyphen or word character one or more then scape the . special character
-([-\w]+) => ---capturing group contain range matches hyphen or word character followed by + 
-means one or more time and it can be found in the result array.
-\.\w+(?:\.\w+)? => ----scap . followed by word character one or more time then Non-capturing group contain
-scaping . special character and word character one or more time and end with ? means 0 or one time
-\/?.* => scaping / special character which is optional 0 or one time then any character 0 or more time
+https?:\/\/  =>  ---start with hypertext transfer protocol with optional security layer 
+(followed by ? which means 0 or one) then escape special characters // by back slash \/\/
+(?:[-\w]+\.)?  =>  ---Non-capture group, optional by ? 0 or one, in the end, contain range in square 
+brackets match the hyphen or word character one or more then escape the . special character
+([-\w]+) => ---capturing group containing range matches hyphen or word character followed by + 
+means one or more times and it can be found in the result array.
+\.\w+(?:\.\w+)? => ----escape . followed by a word character one or more times then 
+the Non-capturing group contains escaping . special character and word character 
+one or more times and end with ? means 0 or one time
+\/?.* => ---escaping / special character which is optional 0 or one time then 
+any character 0 or more times
 */
 
 // Assignment 5
