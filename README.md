@@ -38,78 +38,67 @@ Tarek Elkanaria
 
 ### Lessons from 33 - 37
 
-- [x] If Condition  
-
+- [x] If Condition
 
 ### Lessons from 38 - 39
 
-- [x] Switch Statement  
-
+- [x] Switch Statement
 
 ### Lessons from 40 - 47
 
-- [x] Arrays And Methods  
-
+- [x] Arrays And Methods
 
 ### Lessons from 48 - 53
 
-- [x] Loop - For  
-
+- [x] Loop - For
 
 ### Lessons from 54 - 56
 
-- [x] Loop - While  
-
+- [x] Loop - While
 
 ### Lessons from 57 - 63
 
-- [x] Function And Parameters  
-
+- [x] Function And Parameters
 
 ### Lessons from 64 - 70
 
-- [x] Function And Scopes  
-
+- [x] Function And Scopes
 
 ### Lessons from 71 - 78
 
-- [x] Higher Order Functions  
-
+- [x] Higher Order Functions
 
 ### Lessons from 79 - 85
 
-- [x] Objects And Methods  
-
+- [x] Objects And Methods
 
 ### Lessons from 86 - 93
 
-- [x] Document Object Model  
-
+- [x] Document Object Model
 
 ### Lessons from 94 - 101
 
-- [x] Document Object Model Part 2  
-
+- [x] Document Object Model Part 2
 
 ### Lessons from 102 - 110
 
-- [x] Browser Object Model  
-
+- [x] Browser Object Model
 
 ### Lessons from 111 - 114
 
-- [x] Browser Object Model Part 2  
-
+- [x] Browser Object Model Part 2
 
 ### Lessons from 115 - 122
 
-- [x] Destructuring  
-
+- [x] Destructuring
 
 ### Lessons from 123 - 133
 
-- [x] Map And Set  
+- [x] Map And Set
 
+### Lessons from 134 - 146
+
+- [x] Regular Expression
 
 ### Used languages & libraries
 
