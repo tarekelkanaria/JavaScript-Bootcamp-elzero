@@ -93,9 +93,6 @@ Object.defineProperties(myObj, {
   score: {
     writable: false,
   },
-  country: {
-    configurable: true,
-  },
 });
 delete myObj.country;
 myObj.score = 500;

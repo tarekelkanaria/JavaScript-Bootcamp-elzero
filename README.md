@@ -104,6 +104,10 @@ Tarek Elkanaria
 
 - [x] Object Oriented Programming
 
+### Lessons from 159 - 168
+
+- [x] Date, Generators, Modules
+
 ### Used languages & libraries
 
 - [x] Native JavaScript
