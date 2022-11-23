@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Climate change",
+    "content": "Climate change is dangerous for our planet",
+    "category": "Environment",
+    "author": "Ali Wael"
+  },
+  {
+    "id": 2,
+    "title": "Economic disaster",
+    "content": "The insane increase in price for necessary products will cause a disaster",
+    "category": "Economic",
+    "author": "Goerge will"
+  },
+  {
+    "id": 3,
+    "title": "Football champion",
+    "content": "Argentine team get ready to win the world cup despite its defeat against KSA",
+    "category": "Sports",
+    "author": "Leonel micheal"
+  },
+  {
+    "id": 4,
+    "title": "Demonstrations in Iran",
+    "content": "Thousands of people in Iran get out to streets to express their demands for freedom of speech",
+    "category": "Political",
+    "author": "Taher leil"
+  },
+  {
+    "id": 5,
+    "title": "Save the trees",
+    "content": "Cutting down the trees is very dangerous for our planet",
+    "category": "Environment",
+    "author": "Salma ghoniem"
+  }
+]

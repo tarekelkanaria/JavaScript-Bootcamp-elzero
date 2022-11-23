@@ -108,6 +108,10 @@ Tarek Elkanaria
 
 - [x] Date, Generators, Modules
 
+### Lessons from 169 - 178
+
+- [x] AJAX And JSON
+
 ### Used languages & libraries
 
 - [x] Native JavaScript
