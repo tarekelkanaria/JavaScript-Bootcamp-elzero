@@ -112,6 +112,10 @@ Tarek Elkanaria
 
 - [x] AJAX And JSON
 
+### Lessons from 179 - 188
+
+- [x] Promises
+
 ### Used languages & libraries
 
 - [x] Native JavaScript
